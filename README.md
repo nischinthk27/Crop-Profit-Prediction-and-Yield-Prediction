@@ -1,4 +1,4 @@
-###### Crop-Profit-Prediction-and-Yield-Prediction
+# Crop-Profit-Prediction-and-Yield-Prediction 
 🌾 ML-powered web app that predicts crop profit using yield &amp; price data to help farmers make smarter decisions.
 
 A web-based agricultural decision support system that predicts crop profitability using historical yield and market price data. Built to help farmers and agricultural planners make data-driven crop selection decisions.
@@ -64,20 +64,20 @@ Previous year production, area, and total cost
 The app returns predicted yield, market price, estimated profit, and ROI.
 
 ## 🚀 How to Run
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Nischinth/Crop-Profit-Prediction.git
 cd Crop-Profit-Prediction
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+### Run the app
 python app.py
 ```
 
 ---
 
-# 📁 Project Structure
+### 📁 Project Structure
 ```
 Crop-Profit-Prediction/
 │
